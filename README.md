@@ -1,2 +1,1 @@
-# MyApp
-a task-manager-pwa
+# mani
